@@ -5,3 +5,4 @@ langchain
 langchain_groq
 groq
 geopandas
+folium
