@@ -10,3 +10,4 @@ streamlit_folium
 mapclassify
 matplotlib
 pandasai
+fuzzywuzzy
